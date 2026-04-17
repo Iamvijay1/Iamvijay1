@@ -27,7 +27,6 @@ Hi there, I'm Vijay! 👋 <br><br>I'm a passionate Full Stack Developer dedicate
 
 
 
-###
 
 <br clear="both">
 
